@@ -1,0 +1,11 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/R8vqg7y.png" group-title="Inicial" , ATUALIZADO 18/10/2017
+http://www.macfeijaoeletricista.com
+
+###########################################CANAIS ABERTOS ###################################
+
+
+#EXTINF:-1 tvg-id="REDE BRASIL" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9db393c3531f10b525f8af8a9d75f0ad.png" group-title="CANAIS ABERTOS",REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w2097397595.m3u8
