@@ -24,3 +24,20 @@ https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/chun
 
 #EXTINF:-1 tvg-id="TV VITORIA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31bd8f4b067abf5765e8792d0b1ed479.jpg" group-title="CANAIS ABERTOS",TV VITORIA
 https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/chunklist_w937491618.m3u8
+
+#EXTINF:-1 tvg-id="TV REDE GOSPEL" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/42174cd70ddce777c49b24aea7730341.png" group-title="CANAIS ABERTOS",TV REDE GOSPEL
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist_w1840115585.m3u8
+
+
+#EXTINF:-1 tvg-id="GOSPEL CARTOON" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5ce59e5a4f52bbc5c6419fe5a8674447.png" group-title="CANAIS ABERTOS",GOSPEL CARTOON
+https://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
+
+
+#EXTINF:-1 tvg-id="TV PAMPA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bf5bd325078d65bb2eaffffc84a3bf7a.jpg" group-title="CANAIS ABERTOS",TV PAMPA
+https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8?wowzasessionid=1104287141
+
+###########################################CANAIS INTERNACIONAIS ###################################
+
+#EXTINF:-1 tvg-id="GARAGE TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8404016711a6edd34954b89e1a39b84c.jpg" group-title="CANAIS INTERNACIONAIS",GARAGE TV-ARGENTINA
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1163250937_b1296000_sleng.m3u8
+
