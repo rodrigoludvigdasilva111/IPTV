@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/R8vqg7y.png" group-title="Inicial" , ATUALIZADO 18/10/2017
+#EXTINF:-1 tvg-logo="http://i.imgur.com/R8vqg7y.png" group-title="Inicial" , ATUALIZADO 21/05/2020
 http://www.macfeijaoeletricista.com
 
 ###########################################CANAIS ABERTOS ###################################
@@ -10,11 +10,8 @@ http://www.macfeijaoeletricista.com
 #EXTINF:-1 tvg-id="REDE BRASIL" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9db393c3531f10b525f8af8a9d75f0ad.png" group-title="CANAIS ABERTOS",REDE BRASIL
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w2097397595.m3u8
 
-#EXTINF:-1 tvg-id="REDE TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b0baf19518fb782525c37b40c2f5d9b5.png" group-title="CANAIS ABERTOS",REDE TV
-https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1887087018.m3u8
-
-#EXTINF:-1 tvg-id="TV CULTURA" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ac86ed7edabf2d886a3b8430b4f13c91.png" group-title="CANAIS ABERTOS",TV CULTURA
-https://video.fcxj1-1.fna.fbcdn.net/hvideo-ftw2-atn/_nc_cat-110/v/rbBCd-b2kijsv7yU8xPl8/live-dash/live-ld-v/2783228845139769_0-init.m4v?ms=m_CN
+#EXTINF:-1 tvg-id="CANAL 29" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dcb3ff84b8f31ddc39ef213b42402f75.jpg" group-title="CANAIS ABERTOS",CANAL 29
+https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/chunklist_w439292345.m3u8
 
 #EXTINF:-1 tvg-id="TOP TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2a5ebc5035219e29f0b474691d0b1041.png" group-title="CANAIS ABERTOS",TOP TV
 https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w1073214416.m3u8
@@ -40,4 +37,3 @@ https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8?wowzasessionid=110428
 
 #EXTINF:-1 tvg-id="GARAGE TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8404016711a6edd34954b89e1a39b84c.jpg" group-title="CANAIS INTERNACIONAIS",GARAGE TV-ARGENTINA
 http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1163250937_b1296000_sleng.m3u8
-
